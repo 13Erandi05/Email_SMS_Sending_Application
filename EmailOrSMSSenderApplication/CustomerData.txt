@@ -1,0 +1,3 @@
+﻿1,Erandi,+94768637458,s17477@sci.pdn.ac.lk,both
+2,Thushari,+94769260888,thushari.h@eyepax.com,sms
+3,Sulakshi,+94766400984,sulakshi.g@eyepax.com,email
